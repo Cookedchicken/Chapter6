@@ -1,8 +1,6 @@
-package excercises;
+package practice;
 
-import java.time;
-
-public class CompareLoopsTimes3 {
+public class CountByAnything {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
